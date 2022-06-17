@@ -31,4 +31,4 @@ Not Applicable
 Not Applicable
 
 ## 3. INSTRUCTION
-According to the prompt of mark down in Jupyter notebook, run the code sequentially to process the data, generate figures, and  the model output.
+According to the prompt of mark down in Jupyter notebook, run the code sequentially to process the data, generate figures, and obtain the model output.
